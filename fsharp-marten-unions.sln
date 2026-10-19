@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MartenUnionsThothObjectSerializer", "MartenUnionsThothObjectSerializer\MartenUnionsThothObjectSerializer.fsproj", "{968E733E-82B8-4B41-BF05-4C48FE3B6D9D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MartenUnionsWorkaround", "MartenUnionsWorkaround\MartenUnionsWorkaround.fsproj", "{28014F05-0005-47CE-AAC8-4F4AAE8CB1D2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ThothAutoSerialization", "ThothAutoSerialization\ThothAutoSerialization.fsproj", "{62C01876-4C82-4699-AAA6-9EE3FF1C0BDC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ThothObjectSerialization", "ThothObjectSerialization\ThothObjectSerialization.fsproj", "{6AE3555E-0F13-4EC4-83E6-646C3ABFFD1F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MartenUnionsThothExplicitSerializer", "MartenUnionsThothExplicitSerializer\MartenUnionsThothExplicitSerializer.fsproj", "{915E4199-069A-40C3-BAB7-CC17C3DA7766}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MartenUnionsIssue", "MartenUnionsIssue\MartenUnionsIssue.fsproj", "{B4608D2A-503E-4B69-AC47-3284453BD080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968E733E-82B8-4B41-BF05-4C48FE3B6D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968E733E-82B8-4B41-BF05-4C48FE3B6D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968E733E-82B8-4B41-BF05-4C48FE3B6D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968E733E-82B8-4B41-BF05-4C48FE3B6D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28014F05-0005-47CE-AAC8-4F4AAE8CB1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28014F05-0005-47CE-AAC8-4F4AAE8CB1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28014F05-0005-47CE-AAC8-4F4AAE8CB1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28014F05-0005-47CE-AAC8-4F4AAE8CB1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C01876-4C82-4699-AAA6-9EE3FF1C0BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C01876-4C82-4699-AAA6-9EE3FF1C0BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C01876-4C82-4699-AAA6-9EE3FF1C0BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C01876-4C82-4699-AAA6-9EE3FF1C0BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE3555E-0F13-4EC4-83E6-646C3ABFFD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE3555E-0F13-4EC4-83E6-646C3ABFFD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE3555E-0F13-4EC4-83E6-646C3ABFFD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE3555E-0F13-4EC4-83E6-646C3ABFFD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915E4199-069A-40C3-BAB7-CC17C3DA7766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915E4199-069A-40C3-BAB7-CC17C3DA7766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915E4199-069A-40C3-BAB7-CC17C3DA7766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915E4199-069A-40C3-BAB7-CC17C3DA7766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4608D2A-503E-4B69-AC47-3284453BD080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4608D2A-503E-4B69-AC47-3284453BD080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4608D2A-503E-4B69-AC47-3284453BD080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4608D2A-503E-4B69-AC47-3284453BD080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
